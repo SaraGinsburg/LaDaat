@@ -33,7 +33,7 @@
     left: 50%;
     width: 60px;
     height: 1px;
-    background-color: #DCE8D5;
+    background-color: #8da3b8;
     margin-left: -30px;
 }
 
@@ -50,7 +50,7 @@
  /* ========== Navigation ============ */
  .navbar-default {
     background-color: transparent;
-    border-color: #617259;
+    border-color:#46596b;
     z-index: 110;
     transition: all 1s;
     -moz-transition: all 1s;
@@ -66,7 +66,7 @@
    -webkit-transition: all 1s;
  }
  .navbar-default .navbar-nav > li > a:hover {
-    color: #355B22;
+    color: #343d45;
 }
 .navbar-default .navbar-nav > li > a:focus {
     color: #B5B5B5;
@@ -85,7 +85,7 @@
 .navbar-default .navbar-nav > .active>a:hover,
 .navbar-default .navbar-nav > .active>a:focus {
     background-color: transparent;
-    color: #456b52;
+    color:  #4c627a;
 }
  /* ========== Header ============ */
  .header {
@@ -99,7 +99,7 @@
    -o-background-size: cover;
    -webkit-background-size:cover;
  }
- .header-iphone img {
+ ..iphone-Ladaat img {
    width: 100%;
  }
  .logo {
@@ -107,7 +107,7 @@
    padding-top: 25px;
  }
  .header-text h1 {
-   color: #617259;
+   color:  #4c627a;
    font-size: 35px;
    font-weight: 300;
    line-height: 45px;
@@ -115,7 +115,7 @@
    text-transform: uppercase;
  }
  .header-text p {
-   color: #355B22;
+   color:  #4c627a;
    font-size: 17px;
    font-weight: 300;
    line-height: 28px;
@@ -131,8 +131,8 @@
  .btn-download:visited
  {
    background: transparent;
-   border-color: #DCE8D5;
-   color: #DCE8D5;
+   border-color: #8da3b8;
+   color: #8da3b8;
    padding-top: 10px;
    padding-bottom: 10px;
    padding-left: 30px;
@@ -146,14 +146,14 @@
    -o-transition: all 1s;
  }
  .btn-download:hover {
-   background-color: #DCE8D5;
+   background-color: #8da3b8;
    color: #fff;
  }
  .btn-tour,
  .btn-tour:focus,
  .btn-tour:active,
  .btn-tour:visited {
-   color: #DCE8D5;
+   color: #8da3b8;
    margin-left: 20px;
    text-transform: uppercase;
    font-size: 19px;
@@ -170,9 +170,9 @@
  .btn-tour i {
    font-size: 20px;
    padding-left: 5px;
-   color: #d6e6cc;
+   color: #748fa8;
  }
- .header-iphone img {
+ ..iphone-Ladaat img {
    width: 100%;
  }
 
@@ -181,7 +181,7 @@
  .choose-us-wraper {
    padding-top: 50px;
  }
- .about-iphone img {
+ .about-iphone-Ladaat img {
    margin-top: 8px;
  }
  .choose-us-title {
@@ -201,7 +201,7 @@
     left: 0;
     width: 70px;
     height: 1px;
-    background-color:#8ca37e;
+    background-color:#748fa8;
 }
 
 .choose-us-title p {
@@ -223,7 +223,7 @@
 }
 .choose-us-item div i {
     font-size: 30px;
-    color: #8ca37e;
+    color: #4e657a;
     transition: all 1s;
     -webkit-transition: all 1s;
     -o-transition: all 1s;
@@ -260,7 +260,7 @@
     bottom: -10px;
   }
   .carousel-inner .item img {
-      border: 2px solid #617259;
+      border: 2px solid #41505e;
       border-radius: 50%;
       padding: 3px;
   }
@@ -268,7 +268,7 @@
       padding-bottom: 70px;
   }
   .testimonial-caption h2 {
-      color: #617259;
+      color: #41505e;
       text-transform: uppercase;
       font-weight: 700;
       font-size: 30px;
@@ -276,7 +276,7 @@
 
   }
   .testimonial-caption h4 {
-      color: #617259;
+      color: #8299b3;
   }
 
   .testimonial-caption h4 span {
@@ -313,7 +313,7 @@
       right: 0;
       top: -8px;
       font-size: 30px;
-      color:#8ca37e;
+      color: #798591;
       width: 90px;
       height: 90px;
       text-align: center;
@@ -347,7 +347,7 @@
       left: 0;
       top: -8px;
       font-size: 30px;
-      color: #8ca37e;
+      color: #91a4b8;
       width: 90px;
       height: 90px;
       text-align: center;
@@ -372,7 +372,7 @@
 
   /* ========= Purchase Now ============= */
   .purchase-now {
-      background-color: #617259;
+      background-color:  #4c627a;
       padding-top: 20px;
       padding-bottom: 15px;
   }
@@ -386,8 +386,8 @@
   .btn-pruchase-now:focus,
   .btn-pruchase-now:visited
   {
-      background-color: #8ca37e;
-      border: 1px solid #8ca37e;
+      background-color: #8299b3;
+      border: 1px solid #8299b3;
       color: #343434;
       border-radius: 3px;
       padding: 15px 35px;
@@ -420,7 +420,7 @@
     background: rgba(0, 0, 0, .4);
 }
 .counter-item i {
-    color: #8ca37e;
+    color: #8299b3;
     font-size: 40px;
 }
 .counter-item h2 {
@@ -471,13 +471,13 @@
 .submit-btn:focus,
 .submit-btn:visited {
   background-color: transparent;
-  border: 1px solid #617259;
+  border: 1px solid #5f7b99;
       border-radius: 4px;
       width: 100%;
       height: 50px;
       text-transform: uppercase;
       font-size: 18px;
-      color: #617259;
+      color: #5f7b99;
       outline: 0px !important;
       transition: all 1s;
       -moz-transition: all 1s;
@@ -485,9 +485,9 @@
       -webkit-transition: all 1s;
   }
   .submit-btn:hover {
-      background: #617259;
+      background: #4c627a;
       color: #fff;
-      border-color: #617259;
+      border-color: #4c627a;
   }
   .social-icons {
     padding-top: 50px;
@@ -522,8 +522,8 @@
 }
 .social-icons ul li a:hover {
 
-    background-color: #8ca37e;
-    border: 1px solid #617259;
+    background-color: #5f7b99;
+    border: 1px solid #4c627a;
     color: #fff;
 }
 .social-icons ul li a i {
@@ -532,30 +532,30 @@
 
 /* ========= Footer ============= */
 .footer {
-  background-color: #8ca37e;
+  background-color: #89a9cc;
   padding-bottom: 35px;
   padding-top: 35px;
-  border-bottom: 3px solid #617259;
+  border-bottom: 3px solid #5f7b99;
 }
 #copyright {
     width: 50%;
 }
 #copyright p {
-    color: #617259;
+    color:#395675;
     font-weight: 500;
     font-size: 15px;
     text-transform: uppercase;
 }
 #copyright p a {
     text-decoration: none;
-    color: #DCE8D5;
+    color: #89a9cc;
 }
 .scroll-top {
     text-align: right;
 }
 .scroll-top a {
-    background-color: #8ca37e;
-    border: 1px solid #617259;
+    background-color: #5f7b99;
+    border: 1px solid #395675;
     padding: 15px;
 }
 .scroll-top a i {
