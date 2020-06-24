@@ -85,7 +85,7 @@
 .navbar-default .navbar-nav > .active>a:hover,
 .navbar-default .navbar-nav > .active>a:focus {
     background-color: transparent;
-    color:  #4c627a;
+    color: #456b52;
 }
  /* ========== Header ============ */
  .header {
@@ -243,7 +243,7 @@
 
  /* =============== Testimonials ============= */
  .testimonial {
-   background-image: url("../images/flower-10.png");
+   background-image: url("../images/flower-blue-1.png");
    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -405,7 +405,7 @@
 
     /* ========= Counter ============= */
  .counter {
-   background-image: url("../images/flower-8.png");
+   background-image: url("../images/flower-blue-2.png");
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-size: cover;
