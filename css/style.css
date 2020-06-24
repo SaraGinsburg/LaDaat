@@ -253,9 +253,11 @@
     background-position: 5% 5%;
  }
  .testimonial-overlay {
+    background-color: rgba(31, 31, 31, .15);
     padding-top: 80px;
     padding-bottom: 80px;
  }
+
  .carousel-indicators {
     bottom: -10px;
   }
