@@ -58,7 +58,7 @@
     -webkit-transition: all 1s;
 }
  .navbar-default .navbar-nav > li > a {
-   color: #a3a7a8;
+   color: #7c7f80;
    font-family: "Raleway", sans-serif;
    transition: all 1s;
    -moz-transition: all 1s;
@@ -237,7 +237,7 @@
 }
 
 .choose-us-item p {
-    color: #5e5c5c;
+    color: #7c7f80;
     font-size: 15px;
 }
 
@@ -283,14 +283,14 @@
 
   .testimonial-caption h4 span {
 
-      color: #5e5c5c;
+      color: #7c7f80;
       font-style: italic;
       font-weight: 300;
 
   }
 
   .testimonial-caption p {
-      color:#5e5c5c;
+      color:#7c7f80;
       font-size: 18px;
       line-height: 27px;
       padding-top: 50px;
